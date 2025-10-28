@@ -1,4 +1,4 @@
-name: OpenWrt Builder
+name: OpenWrt优化
 
 on:
   repository_dispatch:
